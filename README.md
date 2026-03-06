@@ -1,5 +1,5 @@
 # HaploStatsAllelesList
-List of two-field typings and whether they are recognized by HaploStats among those tested on March 5, 2026. This list is not exhaustive, as **not all existing two-field typings were tested**. The HaploStats website may be updated in the future to include additional typings that were not supported on that date. Any input containing at least one allele not present in this list will result in the following error:
+List of two-field typings and whether they are recognized by HaploStats among those tested on March 5, 2026. This list is not exhaustive, as **not all existing two-field typings were tested**. The HaploStats website may be updated in the future to include additional typings that were not supported on that date. Any input containing at least one allele not recognized by HaploStats will result in the following error:
 “Exception occurred when processing request: Client received SOAP Fault from server: Type not found for locus XXXXXXX. Please see the server log to find more detail regarding exact cause of the failure.”
 
 - Allele found: A\*01:01
